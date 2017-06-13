@@ -1,2 +1,3 @@
 # Lucky-Number
-Nothing..
+simpile lock screen using c# .net
+random number to unlock it
